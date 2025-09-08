@@ -3,9 +3,8 @@
 ### [English](#english) | [中文](#中文) | [日本語](#日本語)
 
 ---
-
 ## English
-
+![summary](/Intermediated_files/IJ_Hot_LUTs_summary.jpg)
 ### About This Repository
 
 This repository provides color palettes (`.pal` files) for **Imaris**, with a special focus on the popular **"Hot" series** of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualizing intensity in scientific images, mapping low values to black/cool colors and high values to bright, "hot" colors.
@@ -18,6 +17,7 @@ This collection primarily features the **"Hot" series**:
 
 It also includes other useful LUTs from ImageJ/Fiji:
 *   `IJ_Green_Fire_Blue.pal` (Note: This is not part of the "Hot" series but is a popular choice for intensity visualization).
+
 
 ### Motivation
 
@@ -47,7 +47,7 @@ Credit goes to the **National Institutes of Health (NIH)** for developing ImageJ
 ## 中文
 
 ### 關於此儲存庫
-
+![summary](/Intermediated_files/IJ_Hot_LUTs_summary.jpg)
 這個儲存庫提供了 **Imaris** 專用的調色盤 (`.pal` 檔案)，**主要從 ImageJ/Fiji 中廣受歡迎的 "Hot" 系列**色彩查找表 (LUTs) 轉換而來。這些 LUT 非常適合用於視覺化科學影像的強度資訊，它們會將低訊號值映射為黑色或冷色，並將高訊號值映射為明亮的「熱」色。
 
 此合集主要包含 **"Hot" 系列**：
@@ -85,7 +85,7 @@ ImageJ 的 **"Hot" 系列 LUT** 因其直觀的強度視覺化效果而被廣泛
 ---
 
 ## 日本語
-
+![summary](/Intermediated_files/IJ_Hot_LUTs_summary.jpg)
 ### このリポジトリについて
 
 このリポジトリは、ImageJ/Fijiで人気の高い**「Hot」シリーズ**のルックアップテーブル（LUT）を中心に、**Imaris**用のカラーパレット（`.pal`ファイル）を提供します。これらのLUTは、科学画像の輝度情報を視覚化するのに非常に優れており、低い値を黒や寒色に、高い値を明るい「ホット」な色にマッピングします。
